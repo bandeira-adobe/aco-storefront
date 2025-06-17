@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/bandeira-adobe/aco-storefront/
+    type: markup
+
+folders:
+  /products/: /products/default
